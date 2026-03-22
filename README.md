@@ -1,4 +1,4 @@
-# Finance-Stock-Trading-Simulation
+# Finance
 Web app simulating real-time stock trading. Designed to showcase strong backend logic, secure user authentication, and API data integration—key skills for database management and backend development roles.
 
 # 📈 Financial Portfolio Management Platform
