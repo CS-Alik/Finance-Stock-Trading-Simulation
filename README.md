@@ -26,9 +26,7 @@ Users can register for an account, look up real-time stock quotes via external A
 
 To run this project locally on your machine:
 
-1. Clone the repository:
-   >
-   git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/cs50-finance.git
+...........
 Navigate to the project directory:
 >
 cd cs50-finance
